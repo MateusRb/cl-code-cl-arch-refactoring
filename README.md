@@ -1,7 +1,9 @@
-# Clean Code/Architecture
+# Clean Code/Architecture Module Refactoring
 
 Repository for course of clean code and clean architecture
 
-# Modules
+# Scripts
 
-- Refactoring
+npm install 
+
+npm run test
