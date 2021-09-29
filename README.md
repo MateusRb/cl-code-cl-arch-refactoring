@@ -2,13 +2,13 @@
 
 Repository for course of clean code and clean architecture
 
-# Scripts
+## Scripts
 
-## install project
+### install project
 npm install 
 
-## run tests
+### run tests
 npm run test
 
-## run coverage
+### run coverage
 npm run coverage
